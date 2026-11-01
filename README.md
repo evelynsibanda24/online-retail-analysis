@@ -142,6 +142,8 @@ The final dashboard consists of five analytical pages:
 
 Presents the main business KPIs, including total revenue, total orders, total customers, average order value, and monthly revenue trends.
 
+![Sales Overview](dashboard-screenshots/01-Sales-Overview.png)
+
 **Page 2 – Geographic Analysis**
 
 Examines revenue distribution across countries and highlights the contribution of individual markets to overall sales.
