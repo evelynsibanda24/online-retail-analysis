@@ -142,23 +142,42 @@ The final dashboard consists of five analytical pages:
 
 Presents the main business KPIs, including total revenue, total orders, total customers, average order value, and monthly revenue trends.
 
-![Sales Overview](dashboard-screenshots/01-Sales-Overview.png)
+![Sales Overview](dashboard-screenshots/01-Sales-Overview.png) 
+
+
 
 **Page 2 – Geographic Analysis**
 
+![Revenue by Country](dashboard-screenshots/02-Revenue-By-Country.png) 
+
+
 Examines revenue distribution across countries and highlights the contribution of individual markets to overall sales.
+
+
 
 **Page 3 – Customer Analysis**
 
+![Top 10 Customers by Revenue](dashboard-screenshots/03-Top-Customers-By-Revenue.png)
+
 Identifies the top ten customers by revenue, providing insight into customer value and purchasing contribution.
+
+
 
 **Page 4 – Product Analysis**
 
+![Top 10 Products](dashboard-screenshots/04-Top-Products.png)
+
 Highlights the top ten products by revenue, helping identify the products contributing most to sales.
+
+
 
 **Page 5 – Order Trends**
 
+![Monthly Order Volume](dashboard-screenshots/05-Monthly-Order-Volume.png)
+
 Explores monthly order volume to identify changes in purchasing activity throughout the year.
+
+
 
 ## 9. Business Implications
 
